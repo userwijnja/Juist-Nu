@@ -10,7 +10,6 @@ import TarievenSection from '../components/TarievenSection'
 
 import { navLogo } from '../components/Navbar/data';
 
-
 const Home = () => {
     const [isOpen, setIsOpen] = useState(false) 
 
